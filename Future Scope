@@ -1,0 +1,8 @@
+## Future Scope
+
+- The system can be upgraded using IoT platforms (ESP8266 / ESP32) for real-time energy monitoring.
+- Energy consumption data can be uploaded to cloud servers for analysis and billing purposes.
+- A mobile or web application can be developed to view live and historical energy usage.
+- The system can be enhanced to calculate power, energy units (kWh), and electricity cost.
+- Multiple appliances can be monitored individually using multiple current sensors.
+- Integration with smart grid systems for automatic load management is possible.
